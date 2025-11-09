@@ -1,0 +1,5 @@
+{
+  "name": "Project & Budget Planner",
+  "description": "An interactive web application to plan and track projects, responsible parties, budgets, and timelines, based on a provided form. It includes dynamic row management and real-time budget summaries.",
+  "requestFramePermissions": []
+}
